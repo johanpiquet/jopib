@@ -1,6 +1,6 @@
 {
   "name": "jopib",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": false,
   "license": "MIT",
   "keywords": ["loader"],
@@ -11,7 +11,7 @@
   "type": "module",
   "files": ["bin"],
   "bin": {
-  "jopin": "bin/jopib.js"
+  "jopib": "bin/jopib.js"
 },
 "dependencies": {
   "@jopi-loader/tools": "latest"
@@ -19,5 +19,5 @@
 "scripts": {
   "bun-publish": "bun publish"
 },
-"jopiMono_MustIgnoreDependencies": true
+"jopiMono_MustIgnoreDependencies": true,"publishedDate": "9/24/2025","publicPublishedDate": "9/24/2025"
 }

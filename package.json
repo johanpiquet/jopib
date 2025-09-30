@@ -1,6 +1,6 @@
 {
   "name": "jopib",
-  "version": "1.0.8",
+  "version": "1.0.15",
   "private": false,
   "license": "MIT",
   "keywords": [
@@ -24,6 +24,6 @@
     "bun-publish": "bun publish"
   },
   "jopiMono_MustIgnoreDependencies": true,
-  "publishedDate": "9/25/2025",
+  "publishedDate": "9/30/2025",
   "publicPublishedDate": "9/25/2025"
 }
